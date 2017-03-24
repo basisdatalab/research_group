@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1490254294 source:d:\falah\assesment1\equi.cpp
+	"equi.h"
+
+1490254013 d:\falah\assesment1\equi.h
+	<iostream>
+	<stdio.h>
+
+1490254013 source:d:\falah\assesment1\main.cpp
+	<iostream>
+	"equi.h"
+
+1490330253 source:e:\rg\falah\assesment1\equi.cpp
+	"equi.h"
+
+1490327638 e:\rg\falah\assesment1\equi.h
+	<iostream>
+	<stdio.h>
+
+1490327789 source:e:\rg\falah\assesment1\main.cpp
+	<iostream>
+	"equi.h"
+
