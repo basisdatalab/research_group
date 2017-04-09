@@ -1,4 +1,4 @@
-# Voronoi Diagram
+# Indexing Voronoi Diagram
 Time limit: -
 Memory limit: -
 
