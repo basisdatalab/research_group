@@ -16,7 +16,8 @@ int main()
     sumy = 0;
     cout << "Input Total Titik: ";
     cin >> jumlah;
-    for (int i=1;i<=jumlah;i++) {
+    for (int i=1;i<=jumlah;i++) 
+    {
         cout << "Input Sudut: ";
         cin >> sudut;
         cout << "Input Jarak: ";
@@ -26,7 +27,6 @@ int main()
         y = distance1*sin(hasilsudut);
         sumx = sumx+x;
         sumy = sumy+y;
-
     }
     cout << "X = " << sumx << endl;
     cout << "Y = " << sumy << endl;
